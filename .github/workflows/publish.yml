@@ -46,7 +46,7 @@ jobs:
           # curseforge-id: 856138                                             #The id of your CurseForge project
           # curseforge-token: "${{secrets.CURSEFORGE_TOKEN}}"
 
-          modrinth-id: ZNWAUUsB                                             #The id of your modrinth project
+          modrinth-id: CHANGE_ME_TO_ID                                             #The id of your modrinth project
           modrinth-token: "${{secrets.MODRINTH_TOKEN}}"
 
           #          github-token: "${{secrets.GITHUB_TOKEN}}"
